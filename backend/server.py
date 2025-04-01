@@ -1,4 +1,5 @@
 # backend/server.py
+#mcp
 import os
 import logging
 import uuid
