@@ -24,6 +24,16 @@ These components are accessible through:
 - **MCP Server**: For AI assistant integration
 - **Streamlit Frontend**: For user interaction
 
+### Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/a75d3446-5b9c-4a6f-9d40-8c8db1474354)
+
+
+## 🌐 Live Links
+
+- **Frontend** (Streamlit Web Interface): [http://67.205.171.239:8501/](http://67.205.171.239:8501/)
+- **Backend** (FastAPI API Server): [http://67.205.171.239:8000/](http://67.205.171.239:8000/)
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -65,7 +75,7 @@ docker-compose up -d
 
 ### Web Interface
 
-Access the web interface at: http://localhost:8501
+Access the web interface at: [http://67.205.171.239:8501/](http://67.205.171.239:8501/)
 
 1. Enter your legal research query
 2. Select research parameters
@@ -74,7 +84,7 @@ Access the web interface at: http://localhost:8501
 
 ### API Access
 
-The API is available at: http://localhost:8000
+The API is available at: [http://67.205.171.239:8000/](http://67.205.171.239:8000/)
 
 - `POST /research`: Start a new research request
 - `GET /research/{research_id}`: Get research results
@@ -143,6 +153,8 @@ Reports are structured with:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
+## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome!
+- **Sai Priya Veerabomma** - 33.3% 
+- **Sai Srunith Silvery** - 33.3% 
+- **Vishal Prasanna** - 33.3% 
