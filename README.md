@@ -38,7 +38,7 @@ These components are accessible through:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mass-legal-research.git
+git clone https://github.com/DAMG7245/BigData-Hackathon.git
 cd mass-legal-research
 ```
 
@@ -146,7 +146,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 📞 Support
-
-For support, email support@masslegalsearch.com or create an issue on GitHub.
