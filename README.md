@@ -26,7 +26,8 @@ These components are accessible through:
 
 ### Architecture Diagram
 
-[![image](https://github.com/user-attachments/assets/a75d3446-5b9c-4a6f-9d40-8c8db1474354)](http://67.205.171.239:8501/)
+<img width="805" alt="image" src="https://github.com/user-attachments/assets/b4e822ec-02b7-49d8-8e67-d12056da3192" />
+
 
 
 ## 🌐 Live Links
